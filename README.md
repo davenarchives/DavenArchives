@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daven Austhine (aka UnraveledParadox)</h1>
-<h1 align="center">a notive coder</h1>
+<h2 align="center">A Notive Coder</h2>
 <h3 align="left">Introduction:</h3>
 <p></p align="center">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.</p>
 
