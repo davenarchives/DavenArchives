@@ -3,6 +3,8 @@
 <h3 align="left">Introduction:</h3>
 <p></p align="center">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.</p>
 
+ <img src="C:\Users\Administrator\Downloads\Transparent Stuff.gif" alt="Transparent Stuff">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
