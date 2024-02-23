@@ -8,6 +8,7 @@
 - 📚: Currently studying at **University of Science and Technology (USTP)**
 - 💻: Learning **Python, C, HTML and CSS**
 - 🎮: Plays **Genshin, Minecraft, and Mobile Legends**
+- 📺: Avid **Anime Enjoyer (esp. Romance)**
 - 📘: Reads **Manga and Manhwa**
 
 <h3 align="left">Connect with me:</h3>
