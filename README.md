@@ -6,15 +6,20 @@
 <h3 align="left">Introduction</h3>
 <p align="left">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.
 
-- 📚: Currently studying at **University of Science and Technology (USTP)**
+- 📚: Currently studying at **University of Science and Technology**
 - 💻: Learning **Python, C, HTML and CSS**
 - 🎮: Plays **Genshin, Minecraft, and Mobile Legends**
 - 📺: Avid **Anime Enjoyer (esp. Romance)**
 - 📘: Reads **Manga and Manhwa**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href=https://matias.me/nsfw/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://matias.me/nsfw/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/abyss.desu.1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://discord.gg/74jFFFgjNT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_daven.abyss/?igsh=MTMzNzZucnBjdzVnbA%3D%3D&fbclid=IwAR2cy5HHRPr-Zh9PgbJXhGLniQ3dTA6h6tN4gjnRcZlJMCUlYevGS05iuHs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
