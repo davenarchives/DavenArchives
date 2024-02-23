@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daven Austhine (aka DavenArchives)</h1>
 <h3 align="center"> A Novice Coder</h3>
-![Uploading 5f934966a1d20bae1909c9ef2278bd4c.gif…]()
+<img align="right" alt="Coding" width="400" src="https://github.com/davenarchives/DavenArchives/assets/160004612/bd3c0465-0c27-434a-ba1f-f2bd4f702b3a">
 
 <h3 align="left">Introduction</h3>
 <p align="left">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href=https://matias.me/nsfw/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
