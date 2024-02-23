@@ -1,45 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daven Austhine</title>
-    <style>
-        table {
-            width: 100%;
-        }
+<h1 align="center">Hi 👋, I'm Daven Austhine (aka UnraveledParadox)</h1>
+<h3 align="center">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.</h3>
 
-        td {
-            vertical-align: top;
-            padding: 10px;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-    </style>
-</head>
-<body>
-    <table>
-        <tr>
-            <td>
-                <h1>Hi 👋, I'm Daven Austhine (aka UnraveledParadox)</h1>
-                <h2>A Novice Coder</h2>
-                <h3>Introduction:</h3>
-                <p>I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.</p>
-            </td>
-            <td>
-                <img src="https://github.com/DavenArchives/DavenArchives/assets/160004612/dfbbe643-a199-4ad6-913f-56ec9eac093c" alt="Transparent Stuff">
-            </td>
-        </tr>
-    </table>
-</body>
-</html>
-
+![Transparent Stuff](https://github.com/DavenArchives/DavenArchives/assets/160004612/817438d6-c3b4-4dee-805f-a1bb6a60bc91)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
