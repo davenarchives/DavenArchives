@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daven Austhine (aka DavenArchives)</h1>
 <h3 align="center"> A Novice Coder</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.ph/pin/470837336020516682/">
+![Uploading 5f934966a1d20bae1909c9ef2278bd4c.gif…]()
 
 <h3 align="left">Introduction</h3>
 <p align="left">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.
