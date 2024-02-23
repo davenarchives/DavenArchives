@@ -13,13 +13,12 @@
 - 📘: Reads **Manga and Manhwa**
 
 <h3 align="left">Connect with me:</h3>
-  <a href="https://matias.me/nsfw/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
+  <a href="https://matias.me/nsfw/" target="_blank"><img align="center" src="https://github.com/davenarchives/DavenArchives/assets/160004612/421e4ecf-101b-4501-93b4-3947ee045749" alt="OnlyFans" height="40" width="40" /></a>
   <a href="https://www.facebook.com/abyss.desu.1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
   <a href="https://discord.gg/74jFFFgjNT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_daven.abyss/?igsh=MTMzNzZucnBjdzVnbA%3D%3D&fbclid=IwAR2cy5HHRPr-Zh9PgbJXhGLniQ3dTA6h6tN4gjnRcZlJMCUlYevGS05iuHs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-
-
+  <a href="https://www.tiktok.com/@daaaaaven?_t=8k7saQYHElW&_r=1&fbclid=IwAR1eVrvHA9kIyG6XIwV58h2yZ9NSafSxZV4S3Oae30Uxc1YhWwMZGQIAagk" target="_blank"><img align="center" src="https://github.com/davenarchives/DavenArchives/assets/160004612/a908fa6f-e63b-4b18-b6d0-c1e54c54661f" alt="Tiktok" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
