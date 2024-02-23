@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daven Austhine (aka UnraveledParadox)</h1>
 <h3 align="center">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.</h3>
 
-![Transparent Stuff](https://github.com/DavenArchives/DavenArchives/assets/160004612/817438d6-c3b4-4dee-805f-a1bb6a60bc91)
+<img src="https://github.com/DavenArchives/DavenArchives/assets/160004612/817438d6-c3b4-4dee-805f-a1bb6a60bc91" alt="Transparent Stuff" align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
