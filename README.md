@@ -5,10 +5,11 @@
 <h3 align="left">Introduction</h3>
 <p align="left">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.
 
-- 🌱 Currently learning **C, Linux, Ethical Hacking, HTML, CSS, Game Development**
-- 💬 Ask me about **C, Premier Pro, Photoshop**
-- 📫 How to reach me: [johnlemargonzales@gmail.com](mailto:johnlemargonzales@gmail.com)
-  
+- 📚: Currently studying at **University of Science and Technology (USTP)**
+- 💻: Learning **Python, C, HTML and CSS**
+- 🎮: Plays **Genshin, Minecraft, and Mobile Legends**
+- 📘: Reads **Mangas and Manhwas **
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
