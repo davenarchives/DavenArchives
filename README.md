@@ -19,7 +19,7 @@
 - 👾: Former **Roblox Script User and Exploiter**
 - 🐱‍💻: Former **Lucky Patcher and Cheat Engine** Hacker
 - 🐱‍👤: Made **Roblox Phishing Game**
-- ♨️: Experienced **Command User in Minecraft**
+- ♨️: Experienced **Command User** in Minecraft
 - 🌱: Planted **Keylogger** in Computer Shops
 
 <h3 align="left">Connect with me:</h3>
