@@ -14,7 +14,7 @@
 
 <img align="left" alt="Coding" width="350" src="https://github.com/davenarchives/DavenArchives/assets/160004612/836096b0-7b69-454c-9aa2-9df80f2b7332">
 
-<h3 align="right">Experiences:</h3>
+<h3 align="left">Experiences:</h3>
 
 
 - 👾: Former **Roblox Script User and Exploiter**
