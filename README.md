@@ -12,6 +12,17 @@
 - 📺: Avid **Anime Enjoyer (esp. Romance)**
 - 📘: Reads **Manga and Manhwa**
 
+<img align="left" alt="Coding" width="350" src="https://github.com/davenarchives/DavenArchives/assets/160004612/836096b0-7b69-454c-9aa2-9df80f2b7332">
+
+<h3 align="right">Experiences:</h3>
+
+
+- 👾: Former **Roblox Script User and Exploiter**
+- 🐱‍💻: Former **Lucky Patcher and Cheat Engine** Hacker
+- 🐱‍👤: Made **Roblox Phishing Game**
+- ♨️: Experienced **Command User in Minecraft**
+
+
 <h3 align="left">Connect with me:</h3>
   <a href="https://matias.me/nsfw/" target="_blank"><img align="center" src="https://github.com/davenarchives/DavenArchives/assets/160004612/421e4ecf-101b-4501-93b4-3947ee045749" alt="OnlyFans" height="40" width="40" /></a>
   <a href="https://www.facebook.com/abyss.desu.1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
