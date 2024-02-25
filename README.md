@@ -16,7 +16,6 @@
 
 <h3 align="left">Experiences:</h3>
 
-
 - 👾: Former **Roblox Script User and Exploiter**
 - 🐱‍💻: Former **Lucky Patcher and Cheat Engine** Hacker
 - 🐱‍👤: Made **Roblox Phishing Game**
