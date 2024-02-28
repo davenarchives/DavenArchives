@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daven Austhine (aka DavenArchives)</h1>
 <h3 align="center"> A Novice Coder</h3>
-<img align="right" alt="Coding" width="330" src="https://github.com/davenarchives/DavenArchives/assets/160004612/836096b0-7b69-454c-9aa2-9df80f2b7332">
+<img align="right" alt="Coding" width="325" src="https://github.com/davenarchives/DavenArchives/assets/160004612/836096b0-7b69-454c-9aa2-9df80f2b7332">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davenarchives&label=Profile%20views&color=0e75b6&style=flat" alt="davenarchives" /> </p>
 
@@ -14,7 +14,7 @@
 - 📺: Avid **Anime Enjoyer (esp. Romance)**
 - 📘: Reads **Manga and Manhwa**
 
-<img align="left" alt="Coding" width="420" src="https://github.com/davenarchives/DavenArchives/assets/160004612/bd3c0465-0c27-434a-ba1f-f2bd4f702b3a">
+<img align="left" alt="Coding" width="410" src="https://github.com/davenarchives/DavenArchives/assets/160004612/bd3c0465-0c27-434a-ba1f-f2bd4f702b3a">
 
 <h3 align="left">Experiences:</h3>
 
