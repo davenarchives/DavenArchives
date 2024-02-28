@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Daven Austhine (aka DavenArchives)</h1>
 <h3 align="center"> A Novice Coder</h3>
-<img align="right" alt="Coding" width="370" src="https://github.com/davenarchives/DavenArchives/assets/160004612/836096b0-7b69-454c-9aa2-9df80f2b7332">
+<img align="right" alt="Coding" width="350" src="https://github.com/davenarchives/DavenArchives/assets/160004612/836096b0-7b69-454c-9aa2-9df80f2b7332">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davenarchives&label=Profile%20views&color=0e75b6&style=flat" alt="davenarchives" /> </p>
 
 <h3 align="left">Introduction</h3>
 <p align="left">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.
+
 
 - 📚: Currently studying at **University of Science and Technology**
 - 💻: Learning **Python, C, HTML and CSS**
