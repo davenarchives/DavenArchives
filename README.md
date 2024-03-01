@@ -24,7 +24,7 @@
 - ♨️: Experienced **Command User** in Minecraft
 - 🌱: Planted **Keylogger** in Computer Shops
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social accounts:</h3>
   <a href="https://matias.me/nsfw/" target="_blank"><img align="center" src="https://github.com/davenarchives/DavenArchives/assets/160004612/421e4ecf-101b-4501-93b4-3947ee045749" alt="OnlyFans" height="40" width="40" /></a>
   <a href="https://www.facebook.com/abyss.desu.1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@d4v3n57" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
