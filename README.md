@@ -1,28 +1,26 @@
-<h1 align="center">Hi 👋, I'm Daven Austhine (aka DavenArchives)</h1>
-<h3 align="center"> A Novice Coder</h3>
+<h1 align="center">I'm Daven Austhine Sumagang AKA (DavenArchives)</h1>
+<h2 align="center"> an aspiring Web Developer</h2>
 <img align="right" alt="Coding" width="325" src="https://github.com/davenarchives/DavenArchives/assets/160004612/836096b0-7b69-454c-9aa2-9df80f2b7332">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davenarchives&label=Profile%20views&color=0e75b6&style=flat" alt="davenarchives" /> </p>
 
 <h3 align="left">Introduction</h3>
-<p align="left">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.
+<p align="left">Hi! I'm Daven Austhine Sumagang, a 20-year-old student at the University of Science and Technology of Southern Philippines (USTP), working towards becoming a skilled web developer. I'm currently learning front-end and back-end technologies to build functional and efficient websites and applications.
 
+<h3 align="left">About Me</h3>
 
 - 📚: Currently studying at **University of Science and Technology**
-- 💻: Learning **Python, C, HTML and CSS**
-- 🎮: Plays **Genshin, Minecraft, and Mobile Legends**
-- 📺: Avid **Anime Enjoyer (esp. Romance)**
-- 📘: Reads **Manga and Manhwa**
+- 💻: Learning **Python, C, Java, HTML, CSS and Javascript**
+- 🕵: Exploring **front-end and back-end development** to become a full-stack developer
+- 🌐: Aspiring **Web Developer** with a passion for creating user-friendly and innovative websites
 
 <img align="left" alt="Coding" width="410" src="https://github.com/davenarchives/DavenArchives/assets/160004612/bd3c0465-0c27-434a-ba1f-f2bd4f702b3a">
 
-<h3 align="left">Experiences:</h3>
+<h3 align="left">Projects:</h3>
 
-- 👾: Former **Roblox Script User and Exploiter**
-- 🐱‍💻: Former **Lucky Patcher and Cheat Engine** Hacker
-- 🐱‍👤: Made **Roblox Phishing Game**
-- ♨️: Experienced **Command User** in Minecraft
-- 🌱: Planted **Keylogger** in Computer Shops
+- 🕒: <a href="https://ageclock.vercel.app/">Live Age Clock</a> - is a web-based tool that calculates and displays your age in real-time, providing precision down to eight decimal places based on your birthdate input.
+  
+- 🌄: <a href="https://bgclear.vercel.app/">Image Background Remover</a> - a simple web application that allows users to upload an image and automatically remove its background. It utilizes the remove.bg API for processing images, making it easy for users to obtain images with transparent backgrounds.
 
 <h3 align="left">Social Media Accounts:</h3>
   <a href="https://matias.me/nsfw/" target="_blank"><img align="center" src="https://github.com/davenarchives/DavenArchives/assets/160004612/421e4ecf-101b-4501-93b4-3947ee045749" alt="OnlyFans" height="40" width="40" /></a>
