@@ -23,8 +23,8 @@
 
 <h3>Projects</h3>
 <ul>
-  <li>🕒 <a href="https://ageclock.vercel.app/">Live Age Clock</a> - A web-based tool that calculates and displays your age in real-time, providing precision down to eight decimal places based on your birthdate input.</li>
-  <li>🌄 <a href="https://bgclear.vercel.app/">Image Background Remover</a> - A simple web application that allows users to upload an image and automatically remove its background. It utilizes the remove.bg API for processing images, making it easy for users to obtain images with transparent backgrounds.</li>
+  <li>🕒 <a href="https://ageclock.vercel.app/" target="_blank">Live Age Clock</a> - A web-based tool that calculates and displays your age in real-time, providing precision down to eight decimal places based on your birthdate input.</li>
+  <li>🌄 <a href="https://bgclear.vercel.app/" target="_blank">Image Background Remover</a> - A simple web application that allows users to upload an image and automatically remove its background. It utilizes the remove.bg API for processing images, making it easy for users to obtain images with transparent backgrounds.</li>
 </ul>
 
 <h3>Tools and Languages</h3>
