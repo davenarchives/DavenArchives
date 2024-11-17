@@ -1,4 +1,4 @@
-<h1 align="center">I'm Daven Austhine Sumagang AKA (DavenArchives)</h1>
+<h1 align="center">I'm Daven Austhine Sumagang aka (davenarchives)</h1>
 <h3 align="center">An Aspiring Web Developer</h3>
 <img align="right" alt="Coding" width="325" src="https://github.com/davenarchives/DavenArchives/assets/160004612/836096b0-7b69-454c-9aa2-9df80f2b7332">
 
