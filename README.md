@@ -25,6 +25,7 @@
 <ul>
   <li>🕒 <a href="https://ageclock.vercel.app/">Live Age Clock</a> - A web-based tool that calculates and displays your age in real-time, providing precision down to eight decimal places based on your birthdate input.</li>
   <li>🌄 <a href="https://bgclear.vercel.app/">Image Background Remover</a> - A simple web application that allows users to upload an image and automatically remove its background. </li>
+  <li><a href="https://devcheatsheets.vercel.app/">Dev Cheatsheets</a> - A collection of cheatsheets for programming languages and dev tools. </li>
 </ul>
 
 <h3>Tools and Languages</h3>
