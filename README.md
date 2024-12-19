@@ -1,6 +1,6 @@
 <h1 align="center">I'm Daven Austhine Sumagang aka (davenarchives)</h1>
 <h3 align="center">An Aspiring Web Developer</h3>
-<img align="right" alt="Coding" width="325" src="https://github.com/davenarchives/DavenArchives/assets/160004612/836096b0-7b69-454c-9aa2-9df80f2b7332">
+<img align="right" alt="Coding" width="325" src="https://github.com/user-attachments/assets/5845e52a-77ab-4489-aef2-000a9bf00240">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=davenarchives&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -19,7 +19,7 @@
   <li>🌐 Aspiring <b>Web Developer</b> with a passion for creating user-friendly and innovative websites</li>
 </ul>
 
-<img align="left" alt="Coding" width="410" src="https://github.com/davenarchives/DavenArchives/assets/160004612/bd3c0465-0c27-434a-ba1f-f2bd4f702b3a">
+<img align="left" alt="Coding" width="410" src="https://github.com/user-attachments/assets/9b69c230-77fd-4d08-a068-93d61d9de436">
 
 <h3>Projects</h3>
 <ul>
