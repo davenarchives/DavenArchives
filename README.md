@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/7e11365b-e78c-4e38-b3dc-383e607e6a6f">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/7e11365b-e78c-4e38-b3dc-383e607e6a6f">
 
 
 <div align="left">
@@ -68,8 +68,7 @@
 <br>
 
 <div align="center">
-  <img height="295px" src="https://github.com/user-attachments/assets/7e11365b-e78c-4e38-b3dc-383e607e6a6f"/>
-
+  <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davenarchives&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </div>
 
 <div align="center">
