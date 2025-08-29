@@ -1,5 +1,6 @@
 <h1 align="center">I'm Daven Austhine Sumagang aka (davenarchives)</h1>
 <h3 align="center">An Aspiring Web Developer</h3>
+
 <img align="right" alt="Coding" width="325" src="https://github.com/user-attachments/assets/5845e52a-77ab-4489-aef2-000a9bf00240">
 
 <p align="left">
@@ -29,33 +30,37 @@
   <li>📧 <a href="http://drafted.fwh.is/" target="_blank">Drafted</a> - A web-based platform designed to let users anonymously share heartfelt messages, regrets, or unspoken thoughts. </li>
 </ul>
 
-<h3 style="text-align: right;">Tools and Languages</h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,git,mysql,pycharm,vscode,figma,markdown&perline=7" alt="Tools and Languages"/>
-  </a>
-</p>
+<div align="right">
+  <h3>Tools and Languages</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,git,mysql,pycharm,vscode,figma,markdown&perline=7" alt="Tools and Languages"/>
+    </a>
+  </p>
+</div>
 
-<h3 style="text-align: right;">Connect With Me</h3>
-<p>
+<div align="right">
+  <h3>Connect With Me</h3>
+  <p>
     <a href="https://discord.gg/nnZtE8EQTB" target="_blank">
-      <img style="width: 5%;" alt="discord" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" />
-    </a>  
+      <img width="32px" alt="Discord" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" />
+    </a>
     <a href="https://www.facebook.com/daven2004" target="_blank">
-      <img style="width: 5%;" alt="facebook" src="https://github.com/user-attachments/assets/3c389fa1-24eb-451a-8b20-0869474187cf" />
+      <img width="32px" alt="Facebook" src="https://github.com/user-attachments/assets/3c389fa1-24eb-451a-8b20-0869474187cf" />
     </a>
     <a href="https://github.com/davenarchives" target="_blank">
-      <img style="width: 5%;" alt="github" src="https://github.com/user-attachments/assets/6550c54c-0785-4c2c-933e-5bb8d0e1fffb" />
+      <img width="32px" alt="GitHub" src="https://github.com/user-attachments/assets/6550c54c-0785-4c2c-933e-5bb8d0e1fffb" />
     </a>
-    <a href=https://www.linkedin.com/in/daven-austhine-sumagang-368817339/ target="_blank">
-      <img style="width: 5%;" alt="image" src="https://github.com/user-attachments/assets/b3572b94-1808-49b1-a140-906311b5de5e" />
+    <a href="https://www.linkedin.com/in/daven-austhine-sumagang-368817339/" target="_blank">
+      <img width="32px" alt="LinkedIn" src="https://github.com/user-attachments/assets/b3572b94-1808-49b1-a140-906311b5de5e" />
     </a>
-</p>
+  </p>
+</div>
 
 <div align="center">
   <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davenarchives&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </div>
 
 <div align="center">
-    <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=davenarchives&" alt="davenarchives"/>
+  <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=davenarchives&" alt="davenarchives"/>
 </div>
