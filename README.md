@@ -22,6 +22,7 @@
 
 <img align="left" alt="Coding" width="420" src="https://github.com/user-attachments/assets/9b69c230-77fd-4d08-a068-93d61d9de436">
 
+
 <h3>Projects</h3>
 <ul>
   <li>🕒 <a href="https://ageclock.vercel.app/" target="_blank">Live Age Clock</a> - A web-based tool that calculates and displays your age in real-time, providing precision down to eight decimal places based on your birthdate input.</li>
