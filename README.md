@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/df7138f6-1f0b-4a45-8bc7-022f24eafca3">
+<img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/7e11365b-e78c-4e38-b3dc-383e607e6a6f">
 
 
 <div align="left">
