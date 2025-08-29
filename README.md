@@ -30,6 +30,7 @@
   <li>📧 <a href="http://drafted.fwh.is/" target="_blank">Drafted</a> - A web-based platform designed to let users anonymously share heartfelt messages, regrets, or unspoken thoughts. </li>
 </ul>
 
+<br>
 <div align="left">
   <h3>Connect With Me</h3>
   <p>
