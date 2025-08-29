@@ -68,9 +68,10 @@
 <br>
 
 <div align="center">
-  <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davenarchives&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img height="295px" src="https://github.com/user-attachments/assets/5b6c7961-673d-4643-8af4-9afca5c79f49"/>
 </div>
 
 <div align="center">
   <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=davenarchives&" alt="davenarchives"/>
+
 </div>
