@@ -30,7 +30,7 @@
   <li>📧 <a href="http://drafted.fwh.is/" target="_blank">Drafted</a> - A web-based platform designed to let users anonymously share heartfelt messages, regrets, or unspoken thoughts. </li>
 </ul>
 
-<div align="center">
+<div align="left">
   <h3>Connect With Me</h3>
   <p>
     <a href="https://discord.gg/nnZtE8EQTB" target="_blank">
@@ -48,11 +48,11 @@
   </p>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>Tools and Languages</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,git,mysql,pycharm,vscode,figma,markdown&perline=7" alt="Tools and Languages"/>
+      <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,git,mysql,pycharm,vscode,figma,markdown,docker&perline=7" alt="Tools and Languages"/>
     </a>
   </p>
 </div>
