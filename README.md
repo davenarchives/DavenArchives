@@ -20,7 +20,7 @@
   <li>🌐 Aspiring <b>Web Developer</b> with a passion for creating user-friendly and innovative websites</li>
 </ul>
 
-<img align="left" alt="Coding" width="410" src="https://github.com/user-attachments/assets/9b69c230-77fd-4d08-a068-93d61d9de436">
+<img align="left" alt="Coding" width="410" src="https://github.com/user-attachments/assets/df7138f6-1f0b-4a45-8bc7-022f24eafca3">
 
 <h3>Projects</h3>
 <ul>
@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<img align="right" alt="Coding" width="325" src="https://github.com/user-attachments/assets/df7138f6-1f0b-4a45-8bc7-022f24eafca3">
+<img align="right" alt="Coding" width="325" src="https://github.com/user-attachments/assets/9b69c230-77fd-4d08-a068-93d61d9de436">
 
 
 <div align="left">
