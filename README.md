@@ -23,26 +23,34 @@
 
 <h3>Projects</h3>
 <ul>
-  <li>🕒 <a href="https://ageclock.vercel.app/">Live Age Clock</a> - A web-based tool that calculates and displays your age in real-time, providing precision down to eight decimal places based on your birthdate input.</li>
-  <li>🌄 <a href="https://bgclear.vercel.app/">Image Background Remover</a> - A simple web application that allows users to upload an image and automatically remove its background. </li>
-  <li>📚 <a href="https://devcheatsheets.vercel.app/">Dev Cheatsheets</a> - A collection of cheatsheets for programming languages and dev tools. </li>
-  <li>📧 <a href="http://drafted.fwh.is/">Drafted</a> - A web-based platform designed to let users anonymously share heartfelt messages, regrets, or unspoken thoughts. </li>
+  <li>🕒 <a href="https://ageclock.vercel.app/" target="_blank">Live Age Clock</a> - A web-based tool that calculates and displays your age in real-time, providing precision down to eight decimal places based on your birthdate input.</li>
+  <li>🌄 <a href="https://bgclear.vercel.app/" target="_blank">Image Background Remover</a> - A simple web application that allows users to upload an image and automatically remove its background. </li>
+  <li>📚 <a href="https://devcheatsheets.vercel.app/" target="_blank">Dev Cheatsheets</a> - A collection of cheatsheets for programming languages and dev tools. </li>
+  <li>📧 <a href="http://drafted.fwh.is/" target="_blank">Drafted</a> - A web-based platform designed to let users anonymously share heartfelt messages, regrets, or unspoken thoughts. </li>
 </ul>
 
-<h3>Tools and Languages</h3>
+<h3 align="left">Tools and Languages</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,git,mysql,pycharm,vscode,figma,markdown&perline=7" alt="Tools and Languages"/>
   </a>
 </p>
 
-<h3>Connect With Me</h3>
+<h3 align="left">Connect With Me</h3>
 <p>
-    <a href="https://discord.gg/nnZtE8EQTB">
-      <img style="width: 5%;" alt="image" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" />
+    <a href="https://discord.gg/nnZtE8EQTB" target="_blank">
+      <img style="width: 5%;" alt="discord" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" />
+    </a>  
+    <a href="https://www.facebook.com/daven2004" target="_blank">
+      <img style="width: 5%;" alt="facebook" src="https://github.com/user-attachments/assets/3c389fa1-24eb-451a-8b20-0869474187cf" />
+    </a>
+    <a href="https://github.com/davenarchives" target="_blank">
+      <img style="width: 5%;" alt="github" src="https://github.com/user-attachments/assets/6550c54c-0785-4c2c-933e-5bb8d0e1fffb" />
+    </a>
+    <a href=https://www.linkedin.com/in/daven-austhine-sumagang-368817339/ target="_blank">
+      <img style="width: 5%;" alt="image" src="https://github.com/user-attachments/assets/b3572b94-1808-49b1-a140-906311b5de5e" />
     </a>
 </p>
-
 
 <div align="center">
   <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davenarchives&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
