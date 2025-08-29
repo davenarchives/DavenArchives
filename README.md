@@ -31,6 +31,12 @@
 </ul>
 
 <br>
+<br>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=davenarchives&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <div align="left">
   <h3>Connect With Me</h3>
   <p>
