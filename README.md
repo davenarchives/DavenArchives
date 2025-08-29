@@ -31,15 +31,6 @@
 </ul>
 
 <div align="right">
-  <h3>Tools and Languages</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,git,mysql,pycharm,vscode,figma,markdown&perline=7" alt="Tools and Languages"/>
-    </a>
-  </p>
-</div>
-
-<div align="right">
   <h3>Connect With Me</h3>
   <p>
     <a href="https://discord.gg/nnZtE8EQTB" target="_blank">
@@ -56,6 +47,17 @@
     </a>
   </p>
 </div>
+
+<div align="right">
+  <h3>Tools and Languages</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,git,mysql,pycharm,vscode,figma,markdown&perline=7" alt="Tools and Languages"/>
+    </a>
+  </p>
+</div>
+
+
 
 <div align="center">
   <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davenarchives&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
