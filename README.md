@@ -40,16 +40,16 @@
   <h3>Connect With Me</h3>
   <p>
     <a href="https://discord.gg/nnZtE8EQTB" target="_blank">
-      <img width="45px" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" />
+      <img width="50px" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" />
     </a>
     <a href="https://www.facebook.com/daven2004" target="_blank">
-      <img width="45px" alt="Facebook" src="https://github.com/user-attachments/assets/3c389fa1-24eb-451a-8b20-0869474187cf" />
+      <img width="50px" alt="Facebook" src="https://github.com/user-attachments/assets/3c389fa1-24eb-451a-8b20-0869474187cf" />
     </a>
     <a href="https://github.com/davenarchives" target="_blank">
-      <img width="45px" alt="GitHub" src="https://github.com/user-attachments/assets/6550c54c-0785-4c2c-933e-5bb8d0e1fffb" />
+      <img width="50px" alt="GitHub" src="https://github.com/user-attachments/assets/6550c54c-0785-4c2c-933e-5bb8d0e1fffb" />
     </a>
     <a href="https://www.linkedin.com/in/daven-austhine-sumagang-368817339/" target="_blank">
-      <img width="45px" alt="LinkedIn" src="https://github.com/user-attachments/assets/b3572b94-1808-49b1-a140-906311b5de5e" />
+      <img width="50px" alt="LinkedIn" src="https://github.com/user-attachments/assets/b3572b94-1808-49b1-a140-906311b5de5e" />
     </a>
   </p>
 </div>
