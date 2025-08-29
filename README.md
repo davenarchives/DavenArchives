@@ -68,7 +68,8 @@
 <br>
 
 <div align="center">
-  <img height="295px" src="https://github.com/user-attachments/assets/5b6c7961-673d-4643-8af4-9afca5c79f49"/>
+  <img height="295px" src="https://github.com/user-attachments/assets/7e11365b-e78c-4e38-b3dc-383e607e6a6f"/>
+
 </div>
 
 <div align="center">
