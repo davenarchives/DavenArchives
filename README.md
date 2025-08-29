@@ -39,7 +39,7 @@
 <h3>Connect With Me</h3>
 <p>
     <a href="https://discord.gg/nnZtE8EQTB">
-      <img style="width: 10%;" alt="image" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" />
+      <img style="width: 5%;" alt="image" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" />
     </a>
 </p>
 
