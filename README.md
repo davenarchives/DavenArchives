@@ -36,6 +36,11 @@
   </a>
 </p>
 
+<h3>Connect With Me</h3>
+<p>
+    <a href="617643101951098890"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/965b5f2a-e957-4e67-8ba1-bd8512f452cc" /></a>
+</p>
+
 <div align="center">
   <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davenarchives&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </div>
