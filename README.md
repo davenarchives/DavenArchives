@@ -33,9 +33,7 @@
 <br>
 <br>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=davenarchives&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img align="right" alt="Coding" width="325" src="https://github.com/user-attachments/assets/5845e52a-77ab-4489-aef2-000a9bf00240">
 
 <div align="left">
   <h3>Connect With Me</h3>
