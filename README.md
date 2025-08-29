@@ -33,7 +33,8 @@
 <br>
 <br>
 
-<img align="right" alt="Coding" width="325" src="https://github.com/user-attachments/assets/5845e52a-77ab-4489-aef2-000a9bf00240">
+<img align="right" alt="Coding" width="325" src="https://github.com/user-attachments/assets/df7138f6-1f0b-4a45-8bc7-022f24eafca3">
+
 
 <div align="left">
   <h3>Connect With Me</h3>
