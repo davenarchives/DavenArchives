@@ -39,7 +39,7 @@
   </p>
 </div>
 
-<div align="centert">
+<div align="center">
   <h3>Connect With Me</h3>
   <p>
     <a href="https://discord.gg/nnZtE8EQTB" target="_blank">
