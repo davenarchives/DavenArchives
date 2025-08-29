@@ -30,7 +30,7 @@
   <li>📧 <a href="http://drafted.fwh.is/" target="_blank">Drafted</a> - A web-based platform designed to let users anonymously share heartfelt messages, regrets, or unspoken thoughts. </li>
 </ul>
 
-<div align="center">
+<div align="right">
   <h3>Tools and Languages</h3>
   <p>
     <a href="https://skillicons.dev">
