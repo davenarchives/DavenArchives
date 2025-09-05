@@ -59,7 +59,7 @@
   <h3>Tools and Languages</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,git,mysql,pycharm,vscode,figma,markdown,docker,php,debian,laravel,notion,postman,vercel,github,reactnative&perline=7" alt="Tools and Languages"/>
+      <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,git,mysql,pycharm,vscode,figma,markdown,docker,php,debian,laravel,notion,postman,vercel,github,androidstudio,react&perline=7" alt="Tools and Languages"/>
     </a>
   </p>
 </div>
