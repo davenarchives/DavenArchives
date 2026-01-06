@@ -19,7 +19,6 @@
   <li>💻 Mainly focused on <b>Web Development</b></li>
   <li>🧩 Working with <b>React and Firebase</b></li>
   <li>🛠 Interested in both <b>front-end</b> and <b>back-end</b> development</li>
-  <li>📈 Continuously learning through personal and academic projects</li>
 </ul>
 
 <img align="left" alt="Coding workspace" width="420" src="https://github.com/user-attachments/assets/9b69c230-77fd-4d08-a068-93d61d9de436">
