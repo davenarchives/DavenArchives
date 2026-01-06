@@ -19,6 +19,7 @@
   <li>💻 Mainly focused on <b>Web Development</b></li>
   <li>🧩 Working with <b>React and Firebase</b></li>
   <li>🛠 Interested in both <b>front-end</b> and <b>back-end</b> development</li>
+  <li>📈 Continuously learning through personal and academic projects</li>
 </ul>
 
 <img align="left" alt="Coding workspace" width="420" src="https://github.com/user-attachments/assets/9b69c230-77fd-4d08-a068-93d61d9de436">
@@ -46,7 +47,7 @@
 <br><br>
 
 <img align="right" alt="Developer illustration" width="400" src="https://github.com/user-attachments/assets/7e11365b-e78c-4e38-b3dc-383e607e6a6f">
-
+<br>
 <h3>Connect With Me</h3>
 <p>
   <a href="https://discord.gg/nnZtE8EQTB" target="_blank">
