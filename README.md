@@ -5,6 +5,8 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=davenarchives&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://user-badge.committers.top/philippines/davenarchives">
+  <img src="https://user-badge.committers.top/philippines/davenarchives.svg" alt="committers.top badge">
 </p>
 
 <h3>Introduction</h3>
